@@ -1,7 +1,12 @@
 settings.py
 *.log
+*.pyc
 .vscode/
 .idea/
 env/
 .DS_Store
 __pycache__/
+test.py
+.python-version
+setup.cfg
+*.csv
